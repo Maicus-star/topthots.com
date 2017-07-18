@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	108=B_ghcQnFaF7srs0iBsoOccZwdD6APiSwh1UMdFcb0fNnqkdBhUDzmvcjOJTmSIofSLdCTSUD_zsN2bzPL-hY3MEc48PVHAOttcKjr5JvZRxLunmANgT0TBFbW5G-n9Dy
+porndeals.com	TRUE	/	FALSE	1999999999	csrftoken	0p3o3UzCnaStrVIvjtg9ATrVoSmafbKQ
+.porndeals.com	TRUE	/	FALSE	1999999999	__cfduid	ded1d0d3a8ebfd5b52ae368f343587bab1500343289
+

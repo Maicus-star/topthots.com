@@ -1,0 +1,17 @@
+{
+	"name": "ThePornDude",
+	"icons": [
+		{
+			"src": "\/includes\/images\/tpdfavicons\/android-chrome-192x192.png?v=2",
+			"sizes": "192x192",
+			"type": "image\/png"
+		},
+		{
+			"src": "\/includes\/images\/tpdfavicons\/android-chrome-512x512.png?v=2",
+			"sizes": "512x512",
+			"type": "image\/png"
+		}
+	],
+	"theme_color": "#edc392",
+	"display": "standalone"
+}
